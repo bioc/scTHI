@@ -10,7 +10,7 @@ Encoding: UTF-8
 RoxygenNote: 6.1.1.9000
 LazyData: false
 Imports: BiocParallel, Rtsne, grDevices, graphics, stats 
-Suggests: scTHI.data, knitr, rmarkdown
+Suggests: scTHI.data, knitr, rmarkdown, BiocStyle
 VignetteBuilder: knitr
 biocViews: Software,SingleCell
 BugReports: https://github.com/miccec/scTHI/issues
